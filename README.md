@@ -9,7 +9,7 @@ This project provides the most up-to-date fishing macro, designed with **failsaf
 - **Auto-detection:** Automatically recognizes when a fish is caught and recasts accordingly.
 
 ## Installation
-1. Download the latest version from the [Releases](https://github.com/your-repo/releases) page.
+1. Download the latest version from the [Releases](https://github.com/legacy-autofish/releases) page.
 2. Follow the setup guide to ensure proper configuration of the macro.
 3. Run the macro with your preferred settings.
 
