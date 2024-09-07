@@ -14,7 +14,7 @@ This project provides the most up-to-date fishing macro, designed with **failsaf
 3. Run the macro with your preferred settings.
 
 ## Usage
-1. Ensure the macro is properly configured by following the instructions in the config file.
+1. Ensure the macro is properly configured by following the instructions in Hypixel chat.
 2. Start the macro and enjoy automated, safe fishing with realistic behaviors.
 
 ### Key Commands
